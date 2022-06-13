@@ -11,6 +11,21 @@
     text-align: center;
 }
 
+#autor{
+    padding: 20px;
+}
+
+#autor h1{
+    font-size: 30px;
+}
+
+#autor a {
+    color: white;
+    text-decoration: none;
+}
+#autor h2{
+    font-size: 20px;
+}
 .calculadora {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.836);
