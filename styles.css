@@ -26,12 +26,17 @@
 #autor h2{
     font-size: 20px;
 }
+
 .calculadora {
     display: inline-block;
     margin-top: 20px;
     background-color: rgba(0, 0, 0, 0.856);
     padding: 16px;
     border-radius: 15px;
+}
+
+.calculadora h2{
+    text-transform: uppercase;
 }
 
 .botao {
@@ -50,6 +55,7 @@
 }
 
 #resultado {
+    display: inline-block;
     background-color: white;
     width: 207px;
     height: 30px;
@@ -58,4 +64,5 @@
     font-size: 25px;
     padding: 5px;
     text-align: right;
+
 }
